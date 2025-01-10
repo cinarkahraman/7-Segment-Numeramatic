@@ -1,5 +1,7 @@
 # 7-Segment Display Using Servo Motors
-Project Video : https://youtu.be/xPlOSnwSvJo
+
+Project Video Link : https://youtu.be/xPlOSnwSvJo
+
 📟📟📟 This project demonstrates a unique way to create a 7-segment display using servo motors. Each segment of the display is controlled by a servo motor, which moves between two positions to represent an "on" or "off" state. This project is implemented using Arduino. 📟📟📟
 
 ## Features
